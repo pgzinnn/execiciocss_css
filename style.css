@@ -1,0 +1,27 @@
+#subti {
+    color: black;
+}
+
+#ler{
+    color: rgb(25, 0, 255);
+}
+
+header h1{
+    color: gold;
+}
+
+#art{
+    background-color: beige;
+}
+
+article h2{
+    color: orange;
+}
+
+article h3{
+    color: orange;
+}
+
+body{
+    background-color: #ffefef;
+}
